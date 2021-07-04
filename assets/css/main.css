@@ -2275,3 +2275,10 @@ body.is-preload #wrapper {
   transform: scale(1.4);
   cursor: zoom-in;
 }
+
+#left{
+  float:left;
+}
+#right{
+  float:right;
+}
