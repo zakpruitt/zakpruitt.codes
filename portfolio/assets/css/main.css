@@ -2269,3 +2269,9 @@ body.is-preload #wrapper {
     margin-left: 0.5em;
   }
 }
+
+.work-image:hover {
+  overflow: visible;
+  transform: scale(1.3);
+  cursor: zoom-in;
+}
